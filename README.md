@@ -1,5 +1,5 @@
 # killer_chatgpt_prompts
-# Curated collection of enhanced chatgpt prompts on steroids (works with chatgpt desktop app)
+### Curated collection of enhanced chatgpt prompts on steroids (works with chatgpt desktop app)
 ## How to use:
 1. set prompt without specifying a request
 2. write request / follow up questions
