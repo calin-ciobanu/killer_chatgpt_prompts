@@ -5,11 +5,15 @@
 2. write request / follow up questions
 3. set a different prompt
 
-## Compatibility
-Works with: https://github.com/f/awesome-chatgpt-prompts
+Suggestion: create 1 chat / specialization to avoid switch between them and also to keep relevant context
 
-To see the commands in this prompt use `//`
+## Compatibility & Usage
+Install: https://github.com/lencx/ChatGPT
 
-Just copy paste in your `user_custom.json` file located at `~/.chatgpt/` (or chatgpt installation location on other OS)
+Sync prompts (https://github.com/f/awesome-chatgpt-prompts)
+
+Copy paste in your `user_custom.json` file located at `~/.chatgpt/` (or chatgpt installation location on other OS)
+
+To see the commands in this repo use `//` in the chat window
 
 Enjoy!
