@@ -7,7 +7,9 @@
 
 ## Compatibility
 Works with: https://github.com/f/awesome-chatgpt-prompts
+
 To see the commands in this prompt use `//`
+
 Just copy paste in your `user_custom.json` file located at `~/.chatgpt/` (or chatgpt installation location on other OS)
 
 Enjoy!
